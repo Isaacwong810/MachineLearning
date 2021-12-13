@@ -1,1 +1,8 @@
+Here is my final year project.
 
+I build CNN and SVM model to perform sequences classification
+
+I use slurm to submit my script to hpc. 
+slurm script example in SVM_gpu.sh
+
+more detail in FYP report
